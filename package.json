@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/SchoolOfCode/node-101-workshop-dan-and-julian/issues"
   },
-  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-dan-and-julian#readme"
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-dan-and-julian#readme",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
 }
